@@ -1,12 +1,12 @@
 # Rocketbot Logs
   
-Module to send logs to Rocketbot Orchestrator and alerts to emails configured in process
+Módulo para enviar registros a Rocketbot Orchestrator y alertas a los correos electrónicos configurados en el proceso
 
 *Read this in other languages: [English](README.md), [Español](README.es.md).*
 
-## How to install this module
+## Como instalar este módulo
   
-__Download__ and __install__ the content in 'modules' folder in Rocketbot path  
+__Descarga__ e __instala__ el contenido en la carpeta 'modules' en la ruta de Rocketbot.  
 
 
 
@@ -16,11 +16,11 @@ __Download__ and __install__ the content in 'modules' folder in Rocketbot path
 1. Login NOC  
 Login NOC
 
-2. Send Log  
-Send custom log
+2. Enviar log  
+Enviar log personalizado
 
-3. Send Alert  
-Send an alert to the email configured in the process  
+3. Enviar Alerta  
+Envia un alerta al email configurado en el proceso  
 
 
 

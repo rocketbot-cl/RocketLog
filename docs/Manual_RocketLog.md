@@ -1,3 +1,4 @@
+
 # Rocketbot Logs
   
 Module to send logs to Rocketbot Orchestrator and alerts to emails configured in process 
@@ -35,3 +36,8 @@ Send an alert to the email configured in the process
 | --- | --- | --- |
 |Process Token|Process Token to send the alert|8YWUW8AXAV3UPNKY|
 |Alert message|Message to send in the alert|Alert!|
+
+## RocketLog
+
+ view the documentation at: https://github.com/rocketbot-cl/RocketLog/blob/master/example/Manual_RocketLog.pdf
+
